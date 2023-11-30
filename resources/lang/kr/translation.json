@@ -1,27 +1,27 @@
 {
 	"tb": {
-		"navigation_opt": "Navigation",
-		"rendering_opt": "Appearance",
-		"tools_opt": "Tools",
-		"measurments_opt": "Measurements",
+		"navigation_opt": "네비게이션",
+		"rendering_opt": "외관",
+		"tools_opt": "도구",
+		"measurments_opt": "측정",
 		"clipping_opt": "Clipping",
-		"annotations_opt": "Annotations",
+		"annotations_opt": "주석",
 		"materials_opt": "Materials",
-		"scene_opt": "Scene",
-		"classification_filter_opt": "Classification filter",
-		"filters_opt": "Filters",
-		"parameters_opt": "Other settings",
-		"about_opt": "About"
+		"scene_opt": "장면",
+		"classification_filter_opt": "분류 기준",
+		"filters_opt": "필터",
+		"parameters_opt": "기타 설정",
+		"about_opt": "정보"
 	},
 	"tt": {
-		"angle_measurement": "Angle measurement",
-		"point_measurement": "Point measurement",
-		"distance_measurement": "Distance measurement",
-		"height_measurement": "Height measurement",
+		"angle_measurement": "각도 측정",
+		"point_measurement": "위치 측정",
+		"distance_measurement": "거리 측정",
+		"height_measurement": "높이 측정",
 		"circle_measurement": "Circle measurement",
-		"area_measurement": "Area measurement",
-		"volume_measurement": "Volume measurement",
-		"height_profile": "Height profile",
+		"area_measurement": "면적 측정",
+		"volume_measurement": "부피 측정",
+		"height_profile": "단면도",
 		"annotation": "Annotation",
 		"clip_volume": "Volume clip",
 		"clip_polygon": "Polygon clip",
@@ -72,7 +72,7 @@
 		"box": "Box",
 		"length_unit": "Length unit",
 		"freeze": "Lock view",
-		"language": "Language",
+		"language": "언어",
 		"backface_culling": "Backface Culling"
 	},
 	"measurements": {
@@ -90,17 +90,17 @@
 		"save_ortho": "Save CSV(2D)"
 	},
 	"scene": {
-		"camera_position": "Camera Position",
-		"camera_target": "Camera Target"
+		"camera_position": "카메라 위치",
+		"camera_target": "카메라 타겟"
 	},
 	"filters": {
-		"return_number": "Return Number",
+		"return_number": "리턴 갯수",
 		"number_of_returns": "Number of Returns",
 		"gps_min": "min",
 		"gps_max": "max",
-		"gps_time": "GPS Time"
+		"gps_time": "GPS 시간"
 	},
 	"settings": {
-		"language": "Language"
+		"language": "언어"
 	}
 }
